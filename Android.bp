@@ -227,17 +227,6 @@ android_app_import {
 }
 
 android_app_import {
-	name: "uimgbaservice",
-	owner: "sony",
-	apk: "proprietary/product/app/uimgbaservice/uimgbaservice.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	product_specific: true,
-}
-
-android_app_import {
 	name: "EuiccGoogle",
 	owner: "sony",
 	apk: "proprietary/product/priv-app/EuiccGoogle/EuiccGoogle.apk",
@@ -282,27 +271,6 @@ android_app_import {
 		enabled: false,
 	},
 	privileged: true,
-	product_specific: true,
-}
-
-dex_import {
-	name: "uimgbalibrary",
-	owner: "sony",
-	jars: ["proprietary/product/framework/uimgbalibrary.jar"],
-	product_specific: true,
-}
-
-dex_import {
-	name: "uimgbamanagerlibrary",
-	owner: "sony",
-	jars: ["proprietary/product/framework/uimgbamanagerlibrary.jar"],
-	product_specific: true,
-}
-
-dex_import {
-	name: "uimservicelibrary",
-	owner: "sony",
-	jars: ["proprietary/product/framework/uimservicelibrary.jar"],
 	product_specific: true,
 }
 

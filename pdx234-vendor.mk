@@ -13,9 +13,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx234/proprietary/odm/lib64/qnn/libQnnHtpV73.so:$(TARGET_COPY_OUT_ODM)/lib64/qnn/libQnnHtpV73.so \
     vendor/sony/pdx234/proprietary/odm/lib64/qnn/libQnnHtpV73Skel.so:$(TARGET_COPY_OUT_ODM)/lib64/qnn/libQnnHtpV73Skel.so \
     vendor/sony/pdx234/proprietary/odm/lib64/qnn/libQnnHtpV73Stub.so:$(TARGET_COPY_OUT_ODM)/lib64/qnn/libQnnHtpV73Stub.so \
-    vendor/sony/pdx234/proprietary/product/etc/permissions/UimGba.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/UimGba.xml \
-    vendor/sony/pdx234/proprietary/product/etc/permissions/UimGbaManager.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/UimGbaManager.xml \
-    vendor/sony/pdx234/proprietary/product/etc/permissions/UimService.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/UimService.xml \
     vendor/sony/pdx234/proprietary/product/etc/permissions/jp.co.sony.mc.euiccmemoryreset.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/jp.co.sony.mc.euiccmemoryreset.xml \
     vendor/sony/pdx234/proprietary/system/etc/permissions/privapp-permissions-qti.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-qti.xml \
     vendor/sony/pdx234/proprietary/system/etc/sysconfig/qti_whitelist.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/sysconfig/qti_whitelist.xml \
@@ -2060,14 +2057,10 @@ PRODUCT_PACKAGES += \
     CneApp \
     IWlanService \
     TimeService \
-    uimgbaservice \
     EuiccGoogle \
     EuiccMemoryReset \
     HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND \
     HotwordEnrollmentXGoogleHEXAGON_WIDEBAND \
-    uimgbalibrary \
-    uimgbamanagerlibrary \
-    uimservicelibrary \
     com.android.hotwordenrollment.common.util \
     jp.co.sony.mc.misctasdklibrary \
     android.hardware.gnss-aidl-service-qti \
