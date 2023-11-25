@@ -1947,7 +1947,11 @@ vendor/sony/pdx234/proprietary/system_ext/etc/permissions/com.android.hotwordenr
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.qti.qspmhal@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.qspmhal@1.0-impl.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.qti.qspmhal@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.qspmhal@1.0.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.hardware.extlight-V1-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.hardware.extlight-V1-ndk_platform.so \
+    vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.hardware.display@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.hardware.display@2.0.so \
+    vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.hardware.display@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.hardware.display@2.1.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.hardware.display@2.3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.hardware.display@2.3.so \
+    vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.hardware.display@2.4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.hardware.display@2.4.so \
+    vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.hardware.display@2.5.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.hardware.display@2.5.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.hardware.fingerprint-V1-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.hardware.fingerprint-V1-ndk_platform.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.hardware.thermal@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.hardware.thermal@1.0.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.system.idd@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.system.idd@1.0.so \
