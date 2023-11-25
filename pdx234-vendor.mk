@@ -903,6 +903,7 @@ vendor/sony/pdx234/proprietary/system_ext/etc/permissions/com.android.hotwordenr
     vendor/sony/pdx234/proprietary/vendor/lib/libscveCommon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libscveCommon.so \
     vendor/sony/pdx234/proprietary/vendor/lib/libscveCommon_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libscveCommon_stub.so \
     vendor/sony/pdx234/proprietary/vendor/lib/libscveObjectSegmentation.so:$(TARGET_COPY_OUT_VENDOR)/lib/libscveObjectSegmentation.so \
+    vendor/sony/pdx234/proprietary/vendor/lib/vendor.qti.hardware.AGMIPC@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.AGMIPC@1.0.so \
     vendor/sony/pdx234/proprietary/vendor/lib/libscveObjectSegmentation_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libscveObjectSegmentation_stub.so \
     vendor/sony/pdx234/proprietary/vendor/lib/libscveObjectTracker.so:$(TARGET_COPY_OUT_VENDOR)/lib/libscveObjectTracker.so \
     vendor/sony/pdx234/proprietary/vendor/lib/libscveObjectTracker_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libscveObjectTracker_stub.so \
@@ -1002,6 +1003,7 @@ vendor/sony/pdx234/proprietary/system_ext/etc/permissions/com.android.hotwordenr
     vendor/sony/pdx234/proprietary/vendor/lib/vendor.qti.hardware.bluetooth.audio-V1-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.bluetooth.audio-V1-ndk.so \
     vendor/sony/pdx234/proprietary/vendor/lib/vendor.qti.hardware.bluetooth_sar@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.bluetooth_sar@1.0.so \
     vendor/sony/pdx234/proprietary/vendor/lib/vendor.qti.hardware.bluetooth_sar@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.bluetooth_sar@1.1.so \
+    vendor/sony/pdx234/proprietary/vendor/lib/vendor.qti.hardware.capabilityconfigstore@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.capabilityconfigstore@1.0.so \
     vendor/sony/pdx234/proprietary/vendor/lib/vendor.qti.hardware.dsp@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.dsp@1.0.so \
     vendor/sony/pdx234/proprietary/vendor/lib/vendor.qti.hardware.fm@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.fm@1.0.so \
     vendor/sony/pdx234/proprietary/vendor/lib/vendor.qti.hardware.qconfig@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.qconfig@1.0.so \
@@ -1811,6 +1813,8 @@ vendor/sony/pdx234/proprietary/system_ext/etc/permissions/com.android.hotwordenr
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.qti.hardware.bttpi-V2-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.bttpi-V2-ndk.so \
+    vendor/sony/pdx234/proprietary/vendor/lib64/vendor.qti.hardware.capabilityconfigstore@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.capabilityconfigstore@1.0.so \
+    vendor/sony/pdx234/proprietary/vendor/lib64/vendor.qti.hardware.AGMIPC@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.AGMIPC@1.0.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.qti.hardware.cacert@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.cacert@1.0.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.qti.hardware.camera.aon-service-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.camera.aon-service-impl.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so \
@@ -1943,6 +1947,7 @@ vendor/sony/pdx234/proprietary/system_ext/etc/permissions/com.android.hotwordenr
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.qti.qspmhal@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.qspmhal@1.0-impl.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.qti.qspmhal@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.qspmhal@1.0.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.hardware.extlight-V1-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.hardware.extlight-V1-ndk_platform.so \
+    vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.hardware.display@2.3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.hardware.display@2.3.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.hardware.fingerprint-V1-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.hardware.fingerprint-V1-ndk_platform.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.hardware.thermal@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.hardware.thermal@1.0.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/vendor.semc.system.idd@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.semc.system.idd@1.0.so \
