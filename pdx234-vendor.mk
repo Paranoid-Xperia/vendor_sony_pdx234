@@ -1608,10 +1608,7 @@ vendor/sony/pdx234/proprietary/system_ext/etc/permissions/com.android.hotwordenr
     vendor/sony/pdx234/proprietary/vendor/lib64/libsdm-color.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdm-color.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/libsdm-colormgr-algo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdm-colormgr-algo.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/libsdm-disp-vndapis.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdm-disp-vndapis.so \
-    vendor/sony/pdx234/proprietary/vendor/lib64/libsdmcore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdmcore.so \
-    vendor/sony/pdx234/proprietary/vendor/lib64/libsdmdal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdmdal.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/libsdmextension.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdmextension.so \
-    vendor/sony/pdx234/proprietary/vendor/lib64/libsdmutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdmutils.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/libsdsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdsprpc.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/libsecureui_svcsock.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsecureui_svcsock.so \
     vendor/sony/pdx234/proprietary/vendor/lib64/libsensorcal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorcal.so \
